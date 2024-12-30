@@ -1,4 +1,4 @@
-const BASE_URL = "http://43.204.227.235:3000"; // Adjust to your server's URL
+const BASE_URL = "http://localhost:3000"; // Adjust to your server's URL
 let token = "";
 
 // Utility: Fetch seats and render
